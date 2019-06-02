@@ -1,3 +1,7 @@
+# About
+
+This project was just practice on how to create function-based components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
